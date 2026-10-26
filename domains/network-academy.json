@@ -1,0 +1,11 @@
+{
+  "description": "Network Academy educational networking project",
+  "repo": "https://github.com/mmuben998/network-academy",
+  "owner": {
+    "username": "mmuben998",
+    "email": "YOUR_CONTACT_EMAIL"
+  },
+  "record": {
+    "CNAME": "mmuben998.github.io"
+  }
+}
